@@ -49,6 +49,10 @@ bundle exec jekyll serve --livereload
 
 Access the development site at: [http://localhost:4000](http://localhost:4000)  
 
+## Deployment 
+
+To deploy the template using GitHub Pages, you can copy the workflow from the [Blog Repo](https://github.com/Beaver-Notes/Beaver-Blog/blob/main/.github/workflows/jekyll-gh-pages.yml) and refer to the [GitHub Docs](https://docs.github.com/en/actions/writing-workflows/using-workflow-templates) for detailed instructions.
+
 ## 💖 Contribution  
 
 If you want to contribute to Beaver's own blog, check out our [docs](https://docs.beavernotes.com/beaver%20notes%20(dev)/2025/01/06/Contribute-to-blog.html). If you use this template in your project and want to improve it, feel free to open a pull request against this repo. Donations are, of course, always welcome.  
