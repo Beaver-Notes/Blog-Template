@@ -1,0 +1,16 @@
+title: Beaver Blog
+url: "https://blog.beavernotes.com"
+
+# Build settings
+markdown: kramdown
+include:
+  - _post
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-postcss
+  - jemoji
+
+postcss:
+  cache: false

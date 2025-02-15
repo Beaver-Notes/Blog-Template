@@ -1,0 +1,113 @@
+[
+  
+    
+
+    
+      {
+        "title": "Introducing the template",
+
+        
+          "description": "Sat, Feb 15, 2025",
+        
+
+        "content": "<p>Beaver’s blog is a Jekyll theme curated for the community.<!--more--> It is the third iteration of a blog that was originally written in Vue and then rewritten in Jekyll twice.</p>\n\n<h2 id=\"goals\">Goals</h2>\n\n<p>Something that feels like home – Reflecting the design language we have come to love in Beaver.\nLittle to no JavaScript – The less, the better. We tried to use as little JavaScript as possible.\nHassle-free for the reader – Easy to navigate and content-focused.\nRSS feed support – For better cross-posting and reading experience.\nReusable and scalable – Something you can use for your project.\nEasy to maintain – Writing articles is already time-consuming; why make it worse?\nEasy to deploy – Compatible with GitHub Pages.\nBrowser Support</p>\n\n<p>This template works on most, if not all, modern browsers, including all Chromium-based browsers, Safari, and Firefox.</p>\n\n<h2 id=\"-contribution\">💖 Contribution</h2>\n\n<p>If you want to contribute to Beaver’s own blog, check out our docs. If you use this template in your project and want to improve it, feel free to open a pull request against this repo. Donations are, of course, always welcome.</p>\n",
+
+        
+          "image": "assets/img/2024/2024-06-13.png",
+        
+
+        "url": "/2025/02/15/Introducing.html",
+        "tags": "",
+        "date": "2025-02-15 00:00:00 +0100"
+      } ,
+    
+  
+    
+
+    
+      {
+        "title": "Lorem Ipmus",
+
+        
+          "description": "Thu, Jun 13, 2024",
+        
+
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu mauris consectetur, pretium lorem a, rutrum tortor. Morbi accumsan mauris ac facilisis sagittis.<!--more--> Suspendisse tristique est ultricies ex aliquet luctus. Quisque efficitur lacus ipsum, quis tincidunt orci tempor in. Aliquam convallis, sem non viverra ultricies, leo velit sagittis lorem, sit amet pretium ante purus at tellus. Ut interdum arcu eros, nec iaculis arcu commodo vel. Vivamus in sapien dictum, consequat augue sed, condimentum metus. Mauris varius lacinia pulvinar.</p>\n\n<p>Sed eu tellus in lorem consequat varius eu vel arcu. Donec facilisis pellentesque sagittis. Pellentesque ultrices nibh in purus lobortis, sed eleifend ipsum congue. Aliquam sodales venenatis ipsum at ornare. Nullam porttitor id dui in varius. In hac habitasse platea dictumst. Vestibulum laoreet molestie nisi, luctus tristique lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam dolor turpis, finibus a lorem ut, aliquet ullamcorper sem.</p>\n\n<p>Nam quis nunc eget diam vehicula sagittis. Ut non nibh pellentesque, aliquam purus sed, commodo risus. Fusce congue, arcu eu viverra condimentum, velit ante dapibus erat, vulputate vestibulum dui nibh ut ligula. Vivamus at commodo quam, eu convallis elit. Mauris ornare, tortor ac pharetra aliquet, nibh libero scelerisque tortor, non pulvinar metus est a mauris. Pellentesque rutrum ornare magna in fringilla. Nulla condimentum tincidunt nibh, vitae elementum nisl sagittis ut. Vivamus cursus suscipit nisi, sed dapibus nisl pharetra eu. Praesent ullamcorper, metus vitae sollicitudin hendrerit, purus massa vestibulum mi, eget posuere magna mi ut leo. Aliquam erat volutpat. Nullam quis luctus nibh. Sed non lacinia tortor. Curabitur blandit quis libero facilisis semper. Aliquam nulla turpis, luctus sit amet lectus sed, lobortis mollis nisi. Nunc sollicitudin tellus nibh, vel finibus justo lobortis et.</p>\n\n<p>Pellentesque semper pretium est nec tincidunt. Vivamus sollicitudin odio leo, at egestas nisl semper vel. Donec a tristique justo. Proin eget ex eros. Proin tempor ut leo vitae pharetra. Nam tempus consectetur magna ut euismod. Ut elementum fermentum justo, eu vehicula tellus maximus id.</p>\n\n<p>Duis neque nibh, efficitur ac nisi pharetra, tristique venenatis neque. Pellentesque vitae odio neque. Aenean finibus arcu a vestibulum sodales. Nulla auctor dui id diam dapibus, ac elementum nunc aliquam. Nam sed placerat est. Nullam dapibus mi id dolor porta, in consectetur risus iaculis. Nam tempor leo vitae nisl auctor, sit amet sagittis leo feugiat. Integer eget velit iaculis, consequat libero ac, iaculis justo. Proin maximus nisi sed bibendum facilisis.</p>\n",
+
+        
+          "image": "assets/img/2025/2025-01-04.png",
+        
+
+        "url": "/2024/06/13/Lorem-Ipsum.html",
+        "tags": "",
+        "date": "2024-06-13 00:00:00 +0200"
+      } ,
+    
+  
+    
+
+    
+      {
+        "title": "Managing Excerpt",
+
+        
+          "description": "Thu, Jun 13, 2024",
+        
+
+        "content": "<p>You can customise the excerpt (the text displayed below each post on the homepage) using the <code class=\"language-plaintext highlighter-rouge\">excerpt-separator</code>.<!--more--> Here’s how you can do so!</p>\n\n<h2 id=\"steps\">Steps</h2>\n\n<ol>\n  <li>\n    <p>Add <code class=\"language-plaintext highlighter-rouge\">excerpt_separator: &lt;!--more--&gt;</code> to the frontmatter of your blog post.</p>\n  </li>\n  <li>\n    <p>Insert this <code class=\"language-plaintext highlighter-rouge\">&lt;!--more--&gt;</code> at where you would like the excerpt to cut off in your blog post.</p>\n  </li>\n</ol>\n\n<h3 id=\"note\">Note</h3>\n\n<p>This follows <a href=\"https://jekyllrb.com/docs/posts/#post-excerpts\">Jekyll’s recommended way of managing excerpts</a>.</p>\n\n<h2 id=\"example\">Example</h2>\n\n<p>See <a href=\"https://github.com/Beaver-Notes/Blog-Template/blob/main/_posts/2025/2025-02-15-Introducing.md\">this post</a></p>\n",
+
+        
+          "image": "assets/img/2025/2025-01-04.png",
+        
+
+        "url": "/2024/06/13/managing-excerpt.html",
+        "tags": "",
+        "date": "2024-06-13 00:00:00 +0200"
+      } ,
+    
+  
+    
+
+    
+      {
+        "title": "Example Content",
+
+        
+          "description": "Thu, Mar 16, 2017",
+        
+
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.<!--more--> Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.</p>\n\n<h1 id=\"headers\">Headers</h1>\n\n<figure class=\"highlight\"><pre><code class=\"language-markdown\" data-lang=\"markdown\"><span class=\"gh\"># H1</span>\n<span class=\"gu\">## H2</span>\n<span class=\"gu\">### H3</span>\n<span class=\"gu\">#### H4</span>\n<span class=\"gu\">##### H5</span>\n<span class=\"gu\">###### H6</span></code></pre></figure>\n\n<h1 id=\"h1\">H1</h1>\n<h2 id=\"h2\">H2</h2>\n<h3 id=\"h3\">H3</h3>\n<h4 id=\"h4\">H4</h4>\n<h5 id=\"h5\">H5</h5>\n<h6 id=\"h6\">H6</h6>\n\n<h1 id=\"text-formatting\">Text formatting</h1>\n\n<figure class=\"highlight\"><pre><code class=\"language-markdown\" data-lang=\"markdown\"><span class=\"p\">-</span> <span class=\"gs\">**Bold**</span>\n<span class=\"p\">-</span> _Italics_\n<span class=\"p\">-</span> ~~Strikethrough~~\n<span class=\"p\">-</span> <span class=\"nt\">&lt;ins&gt;</span>Underline<span class=\"nt\">&lt;/ins&gt;</span>\n<span class=\"p\">-</span> <span class=\"nt\">&lt;sup&gt;</span>Superscript<span class=\"nt\">&lt;/sup&gt;</span>\n<span class=\"p\">-</span> <span class=\"nt\">&lt;sub&gt;</span>Subscript<span class=\"nt\">&lt;/sub&gt;</span>\n<span class=\"p\">-</span> Abbreviation: <span class=\"nt\">&lt;abbr</span> <span class=\"na\">title=</span><span class=\"s\">\"HyperText Markup Language\"</span><span class=\"nt\">&gt;</span>HTML<span class=\"nt\">&lt;/abbr&gt;</span>\n<span class=\"p\">-</span> Citation: <span class=\"nt\">&lt;cite&gt;</span><span class=\"ni\">&amp;mdash;</span> Chester How<span class=\"nt\">&lt;/cite&gt;</span></code></pre></figure>\n\n<ul>\n  <li><strong>Bold</strong></li>\n  <li><em>Italics</em></li>\n  <li><del>Strikethrough</del></li>\n  <li><ins>Underline</ins></li>\n  <li><sup>Superscript</sup></li>\n  <li><sub>Subscript</sub></li>\n  <li>Abbreviation: <abbr title=\"HyperText Markup Language\">HTML</abbr></li>\n  <li>Citation: <cite>— Chester How</cite></li>\n</ul>\n\n<h1 id=\"lists\">Lists</h1>\n\n<figure class=\"highlight\"><pre><code class=\"language-markdown\" data-lang=\"markdown\"><span class=\"p\">1.</span> Ordered list item 1\n<span class=\"p\">2.</span> Ordered list item 2\n<span class=\"p\">3.</span> Ordered list item 3\n<span class=\"p\">\n*</span> Unordered list item 1\n<span class=\"p\">*</span> Unordered list item 2\n<span class=\"p\">*</span> Unordered list item 3</code></pre></figure>\n\n<ol>\n  <li>Ordered list item 1</li>\n  <li>Ordered list item 2</li>\n  <li>Ordered list item 3</li>\n</ol>\n\n<ul>\n  <li>Unordered list item 1</li>\n  <li>Unordered list item 2</li>\n  <li>Unordered list item 3</li>\n</ul>\n\n<h1 id=\"links\">Links</h1>\n\n<figure class=\"highlight\"><pre><code class=\"language-markdown\" data-lang=\"markdown\">Check out tale on <span class=\"p\">[</span><span class=\"nv\">GitHub</span><span class=\"p\">](</span><span class=\"sx\">https://github.com/chesterhow/tale</span><span class=\"p\">)</span>.</code></pre></figure>\n\n<p>Check out tale on <a href=\"https://github.com/chesterhow/tale\">GitHub</a>.</p>\n\n<h1 id=\"images\">Images</h1>\n\n<figure class=\"highlight\"><pre><code class=\"language-markdown\" data-lang=\"markdown\"><span class=\"p\">![</span><span class=\"nv\">Placeholder image</span><span class=\"p\">](</span><span class=\"sx\">https://placehold.it/800x400</span> <span class=\"nn\">\"Placeholder image\"</span><span class=\"p\">)</span>\n\n<span class=\"p\">![</span><span class=\"nv\">Image with caption</span><span class=\"p\">](</span><span class=\"sx\">https://placehold.it/700x400</span> <span class=\"nn\">\"Image with caption\"</span><span class=\"p\">)</span>\n<span class=\"ge\">_This is an image with a caption_</span></code></pre></figure>\n\n<p><img src=\"https://placehold.it/800x400\" alt=\"Placeholder image\" title=\"Placeholder image\" /></p>\n\n<p><img src=\"https://placehold.it/700x400\" alt=\"Image with caption\" title=\"Image with caption\" />\n<em>This is an image with a caption</em></p>\n\n<h1 id=\"code-and-syntax-highlighting\">Code and Syntax Highlighting</h1>\n<p>Use back-ticks for <code class=\"language-plaintext highlighter-rouge\">inline code</code>. Multi-line code snippets are supported too through Pygments.</p>\n\n<figure class=\"highlight\"><pre><code class=\"language-js\" data-lang=\"js\"><span class=\"c1\">// Sample javascript code</span>\n<span class=\"kd\">var</span> <span class=\"nx\">s</span> <span class=\"o\">=</span> <span class=\"dl\">\"</span><span class=\"s2\">JavaScript syntax highlighting</span><span class=\"dl\">\"</span><span class=\"p\">;</span>\n<span class=\"nf\">alert</span><span class=\"p\">(</span><span class=\"nx\">s</span><span class=\"p\">);</span></code></pre></figure>\n\n<figure class=\"highlight\"><pre><code class=\"language-python\" data-lang=\"python\"><span class=\"c1\"># Sample python code\n</span><span class=\"n\">s</span> <span class=\"o\">=</span> <span class=\"sh\">\"</span><span class=\"s\">Python syntax highlighting</span><span class=\"sh\">\"</span>\n<span class=\"k\">print</span> <span class=\"n\">s</span></code></pre></figure>\n\n<p>Adding <code class=\"language-plaintext highlighter-rouge\">linenos</code> to the highlight tag enables line numbers.</p>\n\n<figure class=\"highlight\"><pre><code class=\"language-js\" data-lang=\"js\"><table class=\"rouge-table\"><tbody><tr><td class=\"gutter gl\"><pre class=\"lineno\">1\n2\n3\n</pre></td><td class=\"code\"><pre><span class=\"c1\">// Sample javascript code</span>\n<span class=\"kd\">var</span> <span class=\"nx\">s</span> <span class=\"o\">=</span> <span class=\"dl\">\"</span><span class=\"s2\">JavaScript syntax highlighting</span><span class=\"dl\">\"</span><span class=\"p\">;</span>\n<span class=\"nf\">alert</span><span class=\"p\">(</span><span class=\"nx\">s</span><span class=\"p\">);</span>\n</pre></td></tr></tbody></table></code></pre></figure>\n\n<h1 id=\"blockquotes\">Blockquotes</h1>\n\n<figure class=\"highlight\"><pre><code class=\"language-markdown\" data-lang=\"markdown\"><span class=\"gt\">&gt; Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</span></code></pre></figure>\n\n<blockquote>\n  <p>Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>\n</blockquote>\n\n<h1 id=\"horizontal-rule--line-break\">Horizontal Rule &amp; Line Break</h1>\n\n<figure class=\"highlight\"><pre><code class=\"language-markdown\" data-lang=\"markdown\">Use <span class=\"sb\">`&lt;hr&gt;`</span> for horizontal rules\n\n<span class=\"nt\">&lt;hr&gt;</span>\n\nand <span class=\"sb\">`&lt;br&gt;`</span> for line breaks.\n\n<span class=\"nt\">&lt;br&gt;</span></code></pre></figure>\n\n<p>Use <code class=\"language-plaintext highlighter-rouge\">&lt;hr&gt;</code> for horizontal rules</p>\n\n<hr />\n\n<p>and <code class=\"language-plaintext highlighter-rouge\">&lt;br&gt;</code> for line breaks.</p>\n\n<p><br /></p>\n\n<p><em>The end</em></p>\n",
+
+        
+          "image": "assets/img/2024/2024-06-13.png",
+        
+
+        "url": "/2017/03/16/example-content.html",
+        "tags": "Example",
+        "date": "2017-03-16 00:00:00 +0100"
+      } ,
+    
+  
+    
+
+    
+      {
+        "title": "Welcome to Jekyll!",
+
+        
+          "description": "Fri, Mar 10, 2017",
+        
+
+        "content": "<p>You’ll find this post in your <code class=\"language-plaintext highlighter-rouge\">_posts</code> directory. <!--more--> Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class=\"language-plaintext highlighter-rouge\">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>\n\n<p>To add new posts, simply add a file in the <code class=\"language-plaintext highlighter-rouge\">_posts</code> directory that follows the convention <code class=\"language-plaintext highlighter-rouge\">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>\n\n<p>Jekyll also offers powerful support for code snippets: like these</p>\n\n<figure class=\"highlight\"><pre><code class=\"language-ruby\" data-lang=\"ruby\"><span class=\"k\">def</span> <span class=\"nf\">print_hi</span><span class=\"p\">(</span><span class=\"nb\">name</span><span class=\"p\">)</span>\n  <span class=\"nb\">puts</span> <span class=\"s2\">\"Hi, </span><span class=\"si\">#{</span><span class=\"nb\">name</span><span class=\"si\">}</span><span class=\"s2\">\"</span>\n<span class=\"k\">end</span>\n<span class=\"n\">print_hi</span><span class=\"p\">(</span><span class=\"s1\">'Daniele'</span><span class=\"p\">)</span>\n<span class=\"c1\">#=&gt; prints 'Hi, Daniele' to STDOUT.</span></code></pre></figure>\n\n<p>Check out the <a href=\"https://jekyllrb.com/docs/home\">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href=\"https://github.com/jekyll/jekyll\">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href=\"https://talk.jekyllrb.com/\">Jekyll Talk</a>.</p>\n\n",
+
+        
+          "image": "assets/img/2024/2024-06-13.png",
+        
+
+        "url": "/2017/03/10/welcome-to-jekyll.html",
+        "tags": "Jekyll",
+        "date": "2017-03-10 00:00:00 +0100"
+      } 
+    
+  
+]
